@@ -22,7 +22,7 @@ However, in this repo you can find the Foundry project with the scripts and make
    cast send --rpc-url $FUJI_RPC_URL --private-key $PRIVATE_KEY 0xFa4fAC09d834ADb9e4457a64b420F26966d981a0 "allowlistDestinationChain(uint64,bool)" 16015286601757825753 true
    ```
    
-   Tx [here](https://testnet.snowtrace.io/tx/0x8780b8729f3614d5d27d3845bf5f117d4113c16de4a06f24611b5a5c3b1877d4).
+   Transaction [here](https://testnet.snowtrace.io/tx/0x8780b8729f3614d5d27d3845bf5f117d4113c16de4a06f24611b5a5c3b1877d4).
 
 3. Then, we deploy the contract on Sepolia with
 
