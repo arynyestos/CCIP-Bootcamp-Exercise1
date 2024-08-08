@@ -1,4 +1,4 @@
-# CCIP Exercise 1: Programmable Token Transfers using the Defensive Example Pattern
+# CCIP Bootcamp Exercise 1: Programmable Token Transfers using the Defensive Example Pattern
 
 Welcome to the first exercise of the CCIP Bootcamp! In this exercise, we explored programmable token transfers using the defensive example pattern. This README provides an overview of the exercise, the objectives, and a brief explanation of the implementation. You can find the official walkthrough of the exercise on the bootcamp's gitbook [here](https://cll-devrel.gitbook.io/ccip-bootcamp/day-1/exercise-1-programmable-token-transfers-using-the-defensive-example-pattern). 
 
